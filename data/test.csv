@@ -1,0 +1,101 @@
+TYPE,QUESTION,SELECT1,SELECT2,SELECT3,SELECT4,ANSWER
+A,she,그녀는,그는,걱정하다,보다,1
+A,student,선생님,학생,남자 승무원,(소리 내어) 울다,2
+A,something,어떤 것,가끔,~의 옆에,아무것도 ~않다,1
+A,only,모든,선생님,고독한,"유일한,오직",4
+A,know,아니오,잊다,알다,~을 가지다,3
+A,trip,할머니,배,책,여행,4
+A,without,없이,~와 함께,어디에,의심하다,1
+A,always,언제나,거의,좀처럼~않다,장갑,1
+A,worry,서두르다,걱정하다,휴식을 취하다,가난한,2
+A,own,다른,구름,"유일한,오직",자기 자신의,4
+A,away,길,우유,~를 따라서,떨어져서,4
+A,cave,동굴,계획,집,케이크,1
+A,fifteen,"50, 쉰",일요일,"13, 열셋","15, 열다섯",4
+A,homework,위험한,바닥,숙제,학급(회의),3
+A,sorry,감시하다,보내다,슬픔,미안한,4
+A,while,야생의,"70, 일흔",비록~일지라도,~하는 동안,4
+A,does,(do의 3인칭 단수형) ~하다,이전에,(be의 과거)~이었다,~않다,1
+A,job,실직한,"일, 직장",(용기)병,~조차도,2
+A,excite,흥분시키다,고요한,제외하고는,8월,1
+A,village,도시,단과대학,추측하다,마을,4
+A,under,경이(로운),아래에,어려운,위에,2
+A,paper,종이,금속,후추,심장,1
+A,once,원하다,두 번,한 번,빨강(의),3
+A,dark,두 번,어두운,표시(하다),밝은,2
+A,dollar,달러,인형,동전,과일,1
+A,person,사람,곤충,마다,동의하다,1
+A,moment,후에,기념비,순간,"겉옷,외투",3
+A,accident,사고,평화,접근,"5, 다섯",1
+A,surprise,놀라게 하다,고요한,상,지하철,1
+A,mark,경기,기호,어두운,표시(하다),4
+A,scientist,"12,열둘",거인,관리자,과학자,4
+A,remember,기억하다,잊다,회원,잔,1
+A,corner,구석,"녹음기,녹화기",한가운데의,소수의,1
+A,coin,종이,"16,열여섯","돌돌 감다, 감긴 것",동전,4
+A,full,"가게,소매점",가득한,바보,비우다,2
+A,vacation,날마다의,휴가,"천직,소명",나무,2
+A,carefully,"18,열여덟",급히,주의깊게,"걱정,근심",3
+A,difficult,생쥐,쉬운,다른,어려운,4
+A,really,일찍,안녕(하세요),결코~않다,정말로,4
+A,west,젖은,서쪽,호수,동쪽,2
+A,such,선물,그러한,그래서,검색(하다),2
+A,south,소리,남쪽,두드리다,북쪽,2
+A,wake,덮다,(잠에서)깨다,자다,약한,2
+A,player,시장,싸우다,사륜마차,선수,4
+A,address,주소,의복,남쪽,장소,1
+A,soft,어려운,부드러운,바지,소금,2
+A,October,야구,10월,7월,이웃사람,2
+A,subway,평면,사슴,떨어져서,지하철,4
+A,taste,맛(보다),녹음(하다),시험,냄새를 맡다,1
+A,hen,암탉,새,자전거,손,1
+A,point,평면,"지점,요점",기후,그리다,2
+A,husband,아내,남편,제2(의),정보,2
+A,fill,느끼다,"관,파이프",채우다,비우다,3
+A,post,원문,우편(물),커튼,시인,2
+A,join,"합류하다,참가하다",동전,갈라서다,장난감,1
+A,blow,"조금씩 마시다,한 모금",~의 아래에,사슴,불다,4
+A,drop,농작물,언덕,떨어지다,오르다,3
+A,adventure,모험,전진,집(으로),자유로운,1
+A,climate,눈,기후,오르다,밀다,2
+A,perhaps,행복,"분명히,확실히",~처럼 보이다,아마,4
+A,fault,결점,사발,깨끗한,떨어지다,1
+B,약간의,some,many,picture,sum,1
+B,이다,his,remove,is,homework,3
+B,여기에,hear,here,class,there,2
+B,"것,물체",sing,thing,family,friend,2
+B,나라,country,today,city,control,1
+B,~해도 좋다,may,day,maybe,change,1
+B,안으로,more,into,out,print,2
+B,(양이)많은,an,touch,there,much,4
+B,하다,do,soon,zoo,put,1
+B,새로운,new,old,view,glove,1
+B,확실한,poor,sure,difficult,spring,2
+B,나르다,put,marry,heart,carry,4
+B,어려운,hole,easy,card,hard,4
+B,자매,Mr.,sister,brother,lunch,2
+B,침실,bedroom,bathroom,kitchen,hour,1
+B,~위에,below,oven,over,always,3
+B,항해하다,happen,sail,sale,reach,2
+B,수업,keep,listen,homework,lesson,4
+B,~하는 동안,seventy,wild,although,while,4
+B,"100, 백",hundred,hunt,thousand,horse,1
+B,"숙모,고모/이모",ant,uncle,aunt,interest,3
+B,동쪽,eat,west,east,crowd,3
+B,제7(의),seventh,shake,seventy,first,1
+B,배고픈,angry,ruler,hungry,full,3
+B,나이,age,time,kill,page,1
+B,성장하다,grow,small,throw,arm,1
+B,안쪽,beside,inside,surprise,outside,2
+B,손목시계,wash,time,dest,watch,4
+B,은행,back,sixteen,building,bank,4
+B,소개하다,separate,introduce,peace,produce,2
+B,동의하다,green,ear,agree,oppose,3
+B,부지런한,delicious,diligent,lazy,wing,2
+B,난로,refrigerator,stove,stone,beach,2
+B,계절,see,season,dry,year,2
+B,발견하다,discover,discuss,front,hide,1
+B,"매다,묶다",tie,separate,tired,candle,1
+B,목마른,circle,thirty,quench,thirsty,4
+B,~까지,since,subway,till,hill,3
+B,우산,rain,relative,umbrella,dead,3
