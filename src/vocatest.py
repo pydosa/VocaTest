@@ -1,9 +1,9 @@
 import sys
 from PyQt5 import QtWidgets
-from PyQt5.QtWidgets import *
+from PyQt5.QtWidgets import QPushButton, QLabel, QMessageBox
 from PyQt5 import uic
-from PyQt5.QtCore import *
-from PyQt5.QtGui import *
+from PyQt5.QtCore import QSize, QTimer, QEvent
+from PyQt5.QtGui import QFont, QIcon, QPixmap
 from PyQt5.QtMultimedia import QSound
 import csv
 import time
@@ -114,7 +114,7 @@ class Form(QtWidgets.QDialog):
 
         if count >= TIMEOUT:
             self.checkTest('')
-            print("Timeout - 다음 문제로 넘어 갑니다.")
+            #print("Timeout - 다음 문제로 넘어 갑니다.")
             self.testNum += 1
             self.goNextTest(self.testNum)
             self.label_counter.setText("%d" % TIMEOUT)
@@ -242,7 +242,6 @@ class Form(QtWidgets.QDialog):
         txt = label.text()
         print("%s clicked" % label.text())
     '''
-
 
 if __name__ == '__main__':
         app = QtWidgets.QApplication(sys.argv)
